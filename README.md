@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alex.boulganine12@gmail.com**
 
-- 📄 Know about my experiences [https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf](https://doal116.github.io/portfolio/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf)
+- 📄 Know about my experiences [https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.eede7641132c8e809bd8.pdf](https://doal116.github.io/portfolio/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf)
 
 - ⚡ Fun fact **I love lifting heavy things. #powerlifter**
 
