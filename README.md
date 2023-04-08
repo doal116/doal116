@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://doal116.github.io/portfolio/](https://doal116.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://doal116.github.io/PortfolioLandingSite/](https://doal116.github.io/PortfolioLandingSite/)
 
 - 💬 Ask me about **react.js, node.js, mongodb, javascript, express**
 
 - 📫 How to reach me **alex.boulganine12@gmail.com**
 
-- 📄 Know about my experiences [https://doal116.github.io/portfolio/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf](https://doal116.github.io/portfolio/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf)
+- 📄 Know about my experiences [https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf](https://doal116.github.io/portfolio/static/media/alexBulganinCv.d77ee0c4b77163cc5eb6.pdf)
 
 - ⚡ Fun fact **I love lifting heavy things. #powerlifter**
 
