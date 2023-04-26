@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **cryptocurrency exchange platform to buy & sell crypto with credit card or debit card.**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently reinforcing knowledge of **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://doal116.github.io/PortfolioLandingSite/](https://doal116.github.io/PortfolioLandingSite/)
 
