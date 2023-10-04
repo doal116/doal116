@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Bulganin</h1>
 <h3 align="center">A passionate MERN fullstack developper from Burundi</h3>
 
-- 🔭 I’m currently working on **educational management system.**
+- 🔭 I’m currently working on **an educational management system.**
 
 - 🌱 I’m currently reinforcing knowledge of **Node.js**
 
