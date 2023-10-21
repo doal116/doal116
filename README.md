@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently reinforcing knowledge of **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://doal116.github.io/PortfolioLandingSite/](https://doal116.github.io/PortfolioLandingSite/)
+- 👨‍💻 All of my projects are available at [myPortfolio](https://doal116.github.io/PortfolioLandingSite/)
 
 - 💬 Ask me about **react.js, node.js, mongodb, javascript, express**
 
 - 📫 How to reach me **alex.boulganine12@gmail.com**
 
-- 📄 Know about my experiences [https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.eede7641132c8e809bd8.pdf](https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.eede7641132c8e809bd8.pdf)
+- 📄 Know about my experiences [atResume](https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.e4ab7044e0c163033c13.pdf)
 
 - ⚡ Fun fact **I love lifting heavy things. #powerlifter**
 
