@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Bulganin</h1>
-<h3 align="center">A passionate MERN fullstack developper from Burundi</h3>
+<h3 align="center">A passionate MERN fullstack developper</h3>
 
 - 🔭 I’m currently working on **an educational management system.**
 
