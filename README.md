@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an educational management system.**
 
-- 🌱 I’m currently reinforcing knowledge of **Node.js**
+- 🌱 Continually learning.
 
 - 👨‍💻 All of my projects are available at [myPortfolio](https://doal116.github.io/PortfolioLandingSite/)
 
