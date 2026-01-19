@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex Bulganin</h1>
-<h3 align="center">A passionate MERN fullstack developper</h3>
-
-- 🔭 I’m currently working on **an educational management system.**
+<h3 align="center">A passionate Software developper</h3>
 
 - 🌱 Continually learning.
 
-- 👨‍💻 All of my projects are available at [myPortfolio](https://doal116.github.io/PortfolioLandingSite/)
-
-- 💬 Ask me about **react.js, node.js, mongodb, javascript, express**
+- 💬 Ask me about **react.js, node.js, mongodb, javascript, express, ROSS, etc**
 
 - 📫 How to reach me **alex.boulganine12@gmail.com**
-
-- 📄 Know about my experiences [atResume](https://doal116.github.io/PortfolioLandingSite/static/media/alexBulganinCv.e4ab7044e0c163033c13.pdf)
 
 - ⚡ Fun fact **I love lifting heavy things. #powerlifter**
 
